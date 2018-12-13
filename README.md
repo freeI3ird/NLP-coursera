@@ -1,2 +1,2 @@
 # NLP-coursera
-It contains solution of exercise and important notes of coursera NLP course.
+It contains solution of exercises and important notes of coursera NLP course.
