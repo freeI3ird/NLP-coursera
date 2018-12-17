@@ -66,3 +66,7 @@
 	- It is something like weighing the Term Frequency, it is like: "ok then term/ngram appears many times in our text, but is this Term actually important or not( given by IDF) and how much is its importance( measured by TF-IDF).
 
 4. **USE TF-IDF value in place of counters in Bag of Words**
+
+Ques: **++Linear Models handle the Sparse Data nicely Why ?++**
+
+
